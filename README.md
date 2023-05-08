@@ -1,9 +1,9 @@
 # SQL-challenge
 
 # Deliverables: 
-data modeling - SQL-challenge.ipynb (notebook to determine columns and data tpyes for provided csv)
-data engineering -  employeeSQL\postgre file
-                    employeeSQL\table creation
+data modeling - SQL-challenge.ipynb (notebook to determine columns and data tpyes for provided csv),
+data engineering -  employeeSQL\postgre file,
+                    employeeSQL\table creation,
 data analysis - employeeSQL\employees data SQL
 
 # Instructions:
